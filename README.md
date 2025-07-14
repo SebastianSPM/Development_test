@@ -1,5 +1,3 @@
-# SPA Event Manager
-
 ## PROYCTO FINAL DE UNA PAGINA SPA
 
 Este proyecto es una Single Page Application (SPA) para la gestión de eventos, cumpliendo con todos los requisitos del enunciado: autenticación con roles, rutas protegidas, persistencia de sesión, y CRUD completo.
