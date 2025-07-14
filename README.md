@@ -9,7 +9,7 @@ Este proyecto es una Single Page Application (SPA) para la gestión de eventos, 
 
 ## ESTRUCTURA DEL PROYECTO
 
-<img href="./assets/img/datos/image-structure.png">
+<img href="./assets/img/datos/image-structure.PNG">
 
 ## 🚀 ¿Cómo ejecutar la solución se ejecuta?
 
